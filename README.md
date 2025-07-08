@@ -1,6 +1,6 @@
 # Hi there, I'm Daniel. 👋
 
-I'm a passionate Computer Engineering student from Madrid, with a deep interest in the mechanics of software, from low-level systems to artificial intelligence. I enjoy building challenging projects that solve interesting problems.
+I'm a passionate CS student from Madrid, with a deep interest in the mechanics of software, from low-level systems to AI. I enjoy building challenging projects that solve interesting problems.
 
 ---
 
@@ -22,6 +22,7 @@ Right now, I'm diving deeper into:
 -   Systems Programming with C++
 -   Building and understanding ML models
 -   Exploring secure software architecture
+-   LLM fine-tuning
 
 ---
 
